@@ -49,7 +49,7 @@ Users can filter by room class, city, booking status, week number, and month for
 
 
 
-Summary of the Dashboard in 10 Points:
+### Key-insights & Features
 
 1. Filters for Customization: Users can filter data by room class, city, and booking status for better insights.
 
