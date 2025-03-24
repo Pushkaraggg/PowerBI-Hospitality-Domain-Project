@@ -1,4 +1,4 @@
-### Summary of the Hospitality Domain Dashboard
+### Key insights & Features of the Hospitality Domain Dashboard
 
 1. Filters for Customization: Users can filter data by room class, city, and booking status for better insights.
 
