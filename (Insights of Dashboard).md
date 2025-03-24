@@ -1,3 +1,47 @@
+### Power-BI Dashboard Project
+This Power-BI provides a comprehensive insights into hotel revenue, occupancy and booking performance with multiple KPIs and visualizations.
+
+###Revenue and Booking Analysis:
+
+Displays total revenue (1.709bn), RevPAR (7.347K), ADR (12.696K), and occupancy % (57.87%).
+
+Provides a trend analysis for revenue and occupancy over different weeks/months.
+
+
+###Occupancy and Realization Insights:
+
+Breaks down occupancy % by business vs. luxury categories.
+
+Shows realization % (70%), indicating how much of the potential revenue is actually captured.
+
+
+###Property-wise Performance:
+
+Lists properties with key performance metrics (bookings, occupancy %, RevPAR, ADR).
+
+Enables comparison between Bangalore and Hyderabad hotels.
+
+
+###Weekday vs. Weekend Performance:
+
+Analyzes weekend vs. weekday trends in RevPAR, ADR, and occupancy.
+
+Helps in pricing and promotional decisions based on peak times.
+
+
+###Booking Platform Contribution:
+
+Compares different booking platforms (direct CRM, journey, etc.) based on realization % and ADR.
+
+Helps in identifying high-performing vs. low-performing channels.
+
+
+###Filter and Customization Options:
+
+Users can filter by room class, city, booking status, week number, and month for focused insights.
+
+
+
 ### Key insights & Features of the Hospitality Domain Dashboard
 
 1. Filters for Customization: Users can filter data by room class, city, and booking status for better insights.
