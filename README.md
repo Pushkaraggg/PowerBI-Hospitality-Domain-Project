@@ -1,4 +1,4 @@
-
+![image_alt](https://github.com/Pushkaraggg/PowerBI-Hospitality-Domain-Project/blob/4c92f09dd609a890e06194c0f7d01a70fc6861e1/Dashboard.jpg)
 
 ### Power-BI Dashboard Project 
 This Power BI dashboard offers comprehensive insights into hotel revenue, occupancy, and booking performance with multiple KPIs and Visualizations. It includes
